@@ -1,0 +1,16 @@
+opencv-python==4.10.0.84
+cmake==3.30.1
+cvzone==1.6.1
+face_recognition_models==0.3.0
+fastapi==0.112.0
+firebase-admin==6.5.0
+mtcnn==0.1.1
+mtcnn-opencv==1.0.2
+numpy==1.26.4
+opencv-python==4.10.0.84
+pydantic==2.8.2
+pydantic_core==2.20.1
+Pygments==2.18.0
+requests==2.32.3
+uvicorn==0.30.5
+ 
