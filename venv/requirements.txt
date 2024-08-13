@@ -26,3 +26,5 @@ setuptools==72.1.0
 
 uvicorn==0.30.5
 wheel==0.44.0
+
+git+https://github.com/Mansi08git/VisiCheck/blob/main/venv/dlib-19.24.99-cp312-cp312-win_amd64.whl.git@main#egg=dlib
